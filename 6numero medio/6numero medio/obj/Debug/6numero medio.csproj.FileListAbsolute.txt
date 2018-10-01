@@ -1,0 +1,6 @@
+c:\users\usuario\source\repos\6numero medio\6numero medio\bin\Debug\6numero medio.exe.config
+c:\users\usuario\source\repos\6numero medio\6numero medio\bin\Debug\6numero medio.exe
+c:\users\usuario\source\repos\6numero medio\6numero medio\bin\Debug\6numero medio.pdb
+c:\users\usuario\source\repos\6numero medio\6numero medio\obj\Debug\6numero medio.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\6numero medio\6numero medio\obj\Debug\6numero medio.exe
+c:\users\usuario\source\repos\6numero medio\6numero medio\obj\Debug\6numero medio.pdb

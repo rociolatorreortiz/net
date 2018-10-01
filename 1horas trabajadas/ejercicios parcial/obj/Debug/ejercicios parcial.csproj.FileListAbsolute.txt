@@ -1,0 +1,7 @@
+C:\Users\usuario\source\repos\ejercicios parcial\ejercicios parcial\bin\Debug\ejercicios parcial.exe.config
+C:\Users\usuario\source\repos\ejercicios parcial\ejercicios parcial\bin\Debug\ejercicios parcial.exe
+C:\Users\usuario\source\repos\ejercicios parcial\ejercicios parcial\bin\Debug\ejercicios parcial.pdb
+C:\Users\usuario\source\repos\ejercicios parcial\ejercicios parcial\obj\Debug\ejercicios parcial.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\ejercicios parcial\ejercicios parcial\obj\Debug\ejercicios parcial.exe
+C:\Users\usuario\source\repos\ejercicios parcial\ejercicios parcial\obj\Debug\ejercicios parcial.pdb
+C:\Users\usuario\source\repos\ejercicios parcial\ejercicios parcial\obj\Debug\ejercicios parcial.csprojResolveAssemblyReference.cache

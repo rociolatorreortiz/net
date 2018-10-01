@@ -1,0 +1,6 @@
+c:\users\usuario\source\repos\7pago estudio\7pago estudio\bin\Debug\7pago estudio.exe.config
+c:\users\usuario\source\repos\7pago estudio\7pago estudio\bin\Debug\7pago estudio.exe
+c:\users\usuario\source\repos\7pago estudio\7pago estudio\bin\Debug\7pago estudio.pdb
+c:\users\usuario\source\repos\7pago estudio\7pago estudio\obj\Debug\7pago estudio.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\7pago estudio\7pago estudio\obj\Debug\7pago estudio.exe
+c:\users\usuario\source\repos\7pago estudio\7pago estudio\obj\Debug\7pago estudio.pdb
