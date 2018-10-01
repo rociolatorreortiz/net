@@ -1,0 +1,7 @@
+c:\users\usuario\source\repos\8multiplicacion n\8multiplicacion n\bin\Debug\8multiplicacion n.exe.config
+c:\users\usuario\source\repos\8multiplicacion n\8multiplicacion n\bin\Debug\8multiplicacion n.exe
+c:\users\usuario\source\repos\8multiplicacion n\8multiplicacion n\bin\Debug\8multiplicacion n.pdb
+c:\users\usuario\source\repos\8multiplicacion n\8multiplicacion n\obj\Debug\8multiplicacion n.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\8multiplicacion n\8multiplicacion n\obj\Debug\8multiplicacion n.exe
+c:\users\usuario\source\repos\8multiplicacion n\8multiplicacion n\obj\Debug\8multiplicacion n.pdb
+c:\users\usuario\source\repos\8multiplicacion n\8multiplicacion n\obj\Debug\8multiplicacion n.csprojResolveAssemblyReference.cache
