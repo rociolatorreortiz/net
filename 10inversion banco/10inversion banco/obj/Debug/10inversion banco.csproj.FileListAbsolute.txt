@@ -1,0 +1,6 @@
+c:\users\usuario\source\repos\10inversion banco\10inversion banco\obj\Debug\10inversion banco.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\10inversion banco\10inversion banco\bin\Debug\10inversion banco.exe.config
+c:\users\usuario\source\repos\10inversion banco\10inversion banco\bin\Debug\10inversion banco.exe
+c:\users\usuario\source\repos\10inversion banco\10inversion banco\bin\Debug\10inversion banco.pdb
+c:\users\usuario\source\repos\10inversion banco\10inversion banco\obj\Debug\10inversion banco.exe
+c:\users\usuario\source\repos\10inversion banco\10inversion banco\obj\Debug\10inversion banco.pdb

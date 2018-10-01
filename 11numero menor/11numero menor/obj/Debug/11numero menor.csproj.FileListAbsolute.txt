@@ -1,0 +1,9 @@
+c:\users\usuario\source\repos\11numero menor\11numero menor\obj\Debug\11numero menor.csprojResolveAssemblyReference.cache
+c:\users\usuario\source\repos\11numero menor\11numero menor\obj\Debug\11numero menor.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\11numero menor\11numero menor\bin\Debug\11numero menor.exe.config
+c:\users\usuario\source\repos\11numero menor\11numero menor\bin\Debug\11numero menor.exe
+c:\users\usuario\source\repos\11numero menor\11numero menor\bin\Debug\11numero menor.pdb
+c:\users\usuario\source\repos\11numero menor\11numero menor\obj\Debug\11numero menor.exe
+c:\users\usuario\source\repos\11numero menor\11numero menor\obj\Debug\11numero menor.pdb
+G:\prog\curso programacion rocio\net\ejercicios parcial\11numero menor\11numero menor\obj\Debug\11numero menor.exe
+G:\prog\curso programacion rocio\net\ejercicios parcial\11numero menor\11numero menor\obj\Debug\11numero menor.pdb
